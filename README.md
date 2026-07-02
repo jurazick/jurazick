@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 WebDev enthusiast & aspiring fullstack developer
 - 🌱 I’m currently learning Backend Development through The Odin Project
-- ⚡ Fun fact about me: I cook in my free time
+- ⚡ Fun fact about me: I cook
 
 ## 🧰 Tech Stack
 ![C](https://img.shields.io/badge/C-18397a?style=flat-square&logo=c)
