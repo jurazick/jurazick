@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 WebDev enthusiast & aspiring fullstack developer
-- 🌱 I’m currently learning Backend Development in GO & Next.js
+- 🌱 I’m currently learning Backend Development in GO & TypeScript
 - ⚡ Fun fact about me: I cook
 
 ## 🧰 Tech Stack
