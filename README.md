@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 WebDev enthusiast & aspiring fullstack developer
-- 🌱 I’m currently learning Backend Development through The Odin Project
+- 🌱 I’m currently learning Backend Development in GO & Next.js
 - ⚡ Fun fact about me: I cook
 
 ## 🧰 Tech Stack
@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📈 Stats
-![Stats](./profile/stats.svg)
-
 ![Top Languages](./profile/top-langs.svg)
 
 
